@@ -1,4 +1,4 @@
-# Pixel Draw: A Simple JS App
+# Pixel Draw: A Simple JS Game/App
 
 ### Description
 
