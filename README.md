@@ -15,4 +15,4 @@
 
 ### How I Would Uplevel It:
 
-- I wound are more options, like the ability to change the size of the grid.
+- I would add more options, like the ability to change the size of the grid.
